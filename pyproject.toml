@@ -1,0 +1,19 @@
+dependencies = [
+    "python-a2a",
+    "fastapi",
+    "vllm",
+    "ollama",
+    "transformers"
+]
+
+[project]
+name = "agentic-project"
+version = "0.1.0"
+dependencies = [
+    "python-a2a",
+    "fastapi",
+    "vllm",
+    "ollama",
+    "transformers"
+    ,"fastmcp"
+]
